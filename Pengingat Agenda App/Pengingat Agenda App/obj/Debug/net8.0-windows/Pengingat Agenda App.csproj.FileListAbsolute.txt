@@ -1,0 +1,32 @@
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat_Agenda_App.Form1.resources
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.csproj.GenerateResource.cache
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.AssemblyInfoInputs.cache
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.AssemblyInfo.cs
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.csproj.CoreCompileInputs.cache
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\bin\Debug\net8.0-windows\Pengingat Agenda App.exe
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\bin\Debug\net8.0-windows\Pengingat Agenda App.deps.json
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\bin\Debug\net8.0-windows\Pengingat Agenda App.runtimeconfig.json
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\bin\Debug\net8.0-windows\Pengingat Agenda App.dll
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\bin\Debug\net8.0-windows\Pengingat Agenda App.pdb
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.dll
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\obj\Debug\net8.0-windows\refint\Pengingat Agenda App.dll
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.pdb
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.genruntimeconfig.cache
+C:\Users\ddraf\OneDrive\문서\TUGAS TEKNIK PEMROGAMAN\Pengingat Agenda App\obj\Debug\net8.0-windows\ref\Pengingat Agenda App.dll
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\bin\Debug\net8.0-windows\Pengingat Agenda App.exe
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\bin\Debug\net8.0-windows\Pengingat Agenda App.deps.json
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\bin\Debug\net8.0-windows\Pengingat Agenda App.runtimeconfig.json
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\bin\Debug\net8.0-windows\Pengingat Agenda App.dll
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\bin\Debug\net8.0-windows\Pengingat Agenda App.pdb
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat_Agenda_App.Form1.resources
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.csproj.GenerateResource.cache
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.AssemblyInfoInputs.cache
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.AssemblyInfo.cs
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.csproj.CoreCompileInputs.cache
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.dll
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\obj\Debug\net8.0-windows\refint\Pengingat Agenda App.dll
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.pdb
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\obj\Debug\net8.0-windows\Pengingat Agenda App.genruntimeconfig.cache
+D:\TEKNIK PEMEROGRAMAN\Pengingat Agenda App\Pengingat Agenda App\obj\Debug\net8.0-windows\ref\Pengingat Agenda App.dll
